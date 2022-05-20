@@ -1,5 +1,8 @@
+
+<div align="center">
 ## I'm Cole Young 👋
 ### Developer/Musican
+</div>
 
 
 

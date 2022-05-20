@@ -1,4 +1,9 @@
-### Hi there 👋
+## I'm Cole Young 👋
+### Developer/Musican
+
+
+
+
 
 <!--
 **michealcoleyoung/michealcoleyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

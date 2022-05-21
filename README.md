@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on polishing my responsive design skills  
   
 
-- 🌱 I’m currently learning Electron  
+- 🌱 I’m currently learning Neutralinojs
   
 
 - ❓ Ask me about what music I am listening to  

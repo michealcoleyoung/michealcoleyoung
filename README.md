@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cole Young. I'm a Front End Developer with 5 years of experience and I also love to shred.</div>  
+### <div align="center">I'm Cole Young. I'm a Front End Developer and I love to shred.</div>  
   
 
 - 🔭 I’m currently working on polishing my responsive design skills  

@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on polishing my responsive design skills  
   
 
-- 🌱 I’m currently learning Neutralinojs
+- 🌱 I’m currently learning TypeScript
   
 
 - ❓ Ask me about what music I am listening to  

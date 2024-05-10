@@ -3,7 +3,7 @@
 </div>  
   
 # 💫About Me :
-I am a Creative Frontend Developer with over 5 years of experience building web pages and applications using HTML, CSS and Javascript. I specialize in Python for both automation and handling backend services through frameworks such as Django. I’m passionate about music, programming, web design and succeeding in my business.
+Enthusiastic and self-motivated individual with a strong foundation in Python programming and a passion for web development. Seeking opportunities to apply and further develop Python skills in a professional environment.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/micheal-cole-young-1306ba109) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@staysharp)

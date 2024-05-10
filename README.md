@@ -20,6 +20,8 @@ Enthusiastic and self-motivated individual with a strong foundation in Python pr
 ---
 [![](https://visitcount.itsvg.in/api?id=michealcoleyoung&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!--
 # 🗺️Roadmaps
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643e1266e27257737490dc69?variant=dark)](https://roadmap.sh)
+-->
 

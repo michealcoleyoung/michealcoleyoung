@@ -3,7 +3,7 @@
 </div>  
   
 # 💫About Me :
-Enthusiastic and self-motivated individual with a strong foundation in Python programming and a passion for web development. Seeking opportunities to apply and further develop Python skills in a professional environment.
+Motivated Python developer with a solid foundation in web development, including Python, Django, Flask, JavaScript, HTML, and CSS. I have dedicated the past 6+ years to building practical skills through personal projects and continuous learning, developing a strong understanding of web application development principles. Eager to expand my knowledge and contribute to a collaborative team environment.
 
 ## 🌐Socials
  

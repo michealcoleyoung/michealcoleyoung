@@ -2,9 +2,6 @@
 <img src="https://github.com/michealcoleyoung/michealcoleyoung/blob/main/GITHUB-README.png" align="center" style="width: 100%" />
 </div>  
   
-# About Me :
-Python developer with 8 years of experience in building robust web solutions and backend systems. Demonstrated expertise in Python and frameworks like Django and Flask, with practical experience in developing automation tools to streamline complex workflows. Proven ability to optimize processes and contribute effectively in collaborative, fast-paced environments.
-
 ## 🌐Socials
  
 

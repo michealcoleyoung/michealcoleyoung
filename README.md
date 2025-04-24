@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/michealcoleyoung/michealcoleyoung/blob/main/banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/michealcoleyoung/michealcoleyoung/blob/main/GITHUB-README.png" align="center" style="width: 100%" />
 </div>  
   
 # 💫About Me :
